@@ -10,9 +10,6 @@ High school student interested in computer science, mathematics, physics, and te
 - Statistics
 - Physics
 
-## Projects
-
-Projects I'm currently building and exploring.
 
 ## Skills
 
