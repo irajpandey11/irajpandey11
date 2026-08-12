@@ -5,6 +5,7 @@ High school student interested in computer science, mathematics, physics, and te
 ## Currently Learning
 
 - Python
+- HTML, CSS
 - Java / AP Computer Science A
 - Data Structures & Algorithms
 - Statistics
@@ -13,7 +14,7 @@ High school student interested in computer science, mathematics, physics, and te
 
 ## Skills
 
-**Languages:** Python, Java, HTML, CSS, JavaScript
+**Languages:** Python, Java, JavaScript
 
 **Tools:** Git, GitHub, VS Code
 
